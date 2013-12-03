@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
     NSLog(@"hello view didload");
+    NSLog(@"hello push 2");
 }
 
 - (void)didReceiveMemoryWarning
