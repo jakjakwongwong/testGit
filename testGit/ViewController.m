@@ -20,6 +20,7 @@
     NSLog(@"hello view didload");
     NSLog(@"hello push 2");
     NSLog(@"ployZb");
+    NSLog(@"hello");
 }
 
 - (void)didReceiveMemoryWarning
